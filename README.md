@@ -1,0 +1,2 @@
+# termux-motd
+wkwk

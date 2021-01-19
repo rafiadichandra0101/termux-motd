@@ -1,0 +1,57 @@
+			Biodata Diri
+
+Nama : Rafi Adi Chandra
+Agama : Islam
+Kelahiran : Jakarta, 03 - 01 - 2006
+Anak ke : 2 dari 3 Saudara
+Hoby : Rebahan Santuy
+Cita-cita : Menjadi Orang Sukses
+Tempat tinggal : Pandeglang Banten
+Whatsapp me : 0812-1889-8489 / 0852-8267-7885
+
+~	~	~	~	~	~	~	~
+			   Tutorial
+
+$HOME = Directory Termux
+/sdcard = Directory Eksternal
+
+Usage => mv -f (Nama Folder/Nama File) (Lokasi Penyimpanan)
+=> Berfungsi untuk memindahkan file/folder.
+
+Usage => rm -f (Nama Folder)
+=> Berfungsi untuk menghapus folder.
+
+Usage => cp -f (Nama Folder)
+=> Berfungsi untuk mengcopy folder 
+
+Usage => clear
+=> Berfungsi untuk membersihkan semua perintah.
+
+Usage => exit
+=> Berfungsi untuk keluar dari termux.
+
+Install : pkg install zip && pkg install unzip
+Usage => zip (Nama File) / unzip (Nama Folder.zip)
+=> Berfungsi untuk mengkompres file atau mengekstrak folder zip.
+
+Install : pkg install nano
+Usage => nano (Nama Folder)
+=> Berfungsi untuk mengedit isi folder.
+
+Usage : Volume Atas + q
+=> Berfungsi untuk menampilkan tombol shortcut/pintasan.
+
+Usage : Volume Bawah + o / Volume Bawah + j / Volume Bawah + m
+=> Berfungsi seperti tombol enter.
+
+Usage : Volume Bawah + p
+=> Berfungsi untuk menampilkan perintah sebelumnya.
+
+Usage : Volume bawah + l
+=> Berfungsi untuk membersihkan/clear.
+
+Usage : Volume Bawah + c
+=> Berfungsi untuk menghentikan penginstallan.
+
+~	~	~	~	~	~	~	~
+
